@@ -1,0 +1,25 @@
+http://127.0.0.1:8000/docs
+
+
+
+Steps to run the API:
+1. Save the folder in your Device
+2. Open a Terminal in the device
+3. Create Python environment, for that paste
+python -m venv venv
+source venv/bin/activate      # On Windows use: venv\Scripts\activate
+click "enter"
+4. now paste:
+pip install -r requirements.txt
+click "enter"
+if shows error paste it again and it will process.
+5. now paste:
+uvicorn main:app --reload
+click "enter"
+6. after this process, open your browser and paste:
+http://127.0.0.1:8000/docs
+> This will run the program and Navigate you to the FastAPI- Restaurant Recommender
+> Enter into the page and click "Try it out"
+> Enter userID such as "U001" and enter
+> It will recommend the restaurants as per their tastes and choices
+
