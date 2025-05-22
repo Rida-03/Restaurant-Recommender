@@ -1,0 +1,11 @@
+restaurant_id,name,location,cuisine,price_range,avg_rating
+R001,Pizza Palace,New York,Italian,$$,4.5
+R002,Sushi World,Los Angeles,Japanese,$$$,4.7
+R003,Curry House,Chicago,Indian,$,4.3
+R004,Taco Fiesta,New York,Mexican,$,4.2
+R005,Dragon Express,San Francisco,Chinese,$,4.1
+R006,Olive Table,Los Angeles,Mediterranean,$$$,4.6
+R007,Spice Garden,Chicago,Thai,$$,4.4
+R008,Grill Hub,San Francisco,American,$$,4.0
+R009,Pasta Corner,New York,Italian,$$,4.3
+R0010,Seoul Kitchen,Los Angeles,Korean,$$,4.5
